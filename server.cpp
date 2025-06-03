@@ -103,6 +103,3 @@ void AttendanceServer::stop() {
     
 
 //riva
-
-
-//riva
